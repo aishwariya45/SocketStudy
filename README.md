@@ -1,5 +1,7 @@
-# Ex.No:1a  			Study of Socket Programming
-
+# Ex.No:1a  
+Study of Socket Programming
+# NAME: S.Aishwariya
+# Reg no: 212224240005
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -88,8 +90,10 @@ s.send("acknowledgement recived from the server".encode())
 
 ```
 ## output:
-![Uploading Screenshot 2025-04-23 190738.png…]()
-![Uploading Screenshot 2025-04-23 190743.png…]()
+![Screenshot 2025-04-23 190738](https://github.com/user-attachments/assets/ce1df5f3-f9af-4ed8-bbe7-4d7211d51d6c)
+
+![Screenshot 2025-04-23 190743](https://github.com/user-attachments/assets/90b3e0f3-eadf-45cc-9516-27569c115b3b)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
