@@ -21,7 +21,8 @@ Socket programming involves a set of functions provided by the operating system 
 Servers create a socket using socket() and bind it to a specific IP address and port using bind(). * They then listen for incoming connections with listen() and accept connections with accept(). * Once a connection is establi * shed, servers can send and receive data using send() and recv().
 Client -Server Operations Clients create a socket using socket() and connect to a server using connect(). After establishing a connection, clients can send and receive data using send() and recv().
 
-## Use Cases of Socket Programming: Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
+## Use Cases of Socket Programming:
+Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
 
 ### Example Use Cases:
 Web servers: Web servers use socket programming to handle incoming HTTP requests from clients, serving web pages and content.
